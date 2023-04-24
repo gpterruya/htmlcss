@@ -1,0 +1,167 @@
+header {
+    padding: 1.5rem 0 0 5.5rem;
+}
+
+.row-1 {
+    max-width: 83rem;
+    display: flex; 
+    padding-top: 1.5rem;
+    margin: auto;
+}
+
+.col-sm-6 {
+    padding: 5rem 0 0 3.5rem;
+    flex-basis: 50%;
+}
+
+.col-sm-6 h4 {
+    font-weight: 500;
+    padding-bottom: 2rem;
+}
+
+.col-sm-6 h1 {
+    font-size: 4rem;
+    padding-bottom: 2rem;
+}
+
+.col-sm-6 p {
+    font-size: 1.25rem;
+    padding-bottom: 4rem;
+}
+
+.col-sm-6 .get-started {
+    background-color: #7373d7;
+    padding: 1rem 1.5rem;
+    border-radius: 0.5rem;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.col-sm-6 img {
+    padding-top: -2rem;
+    padding-left: 2rem;
+}
+
+body h2 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.row-2 {
+    padding-left: 5rem;
+    padding-top: 1.5rem;
+    display: flex;
+}
+
+.row-2 .col-sm-6 p{
+    max-width: 25rem;
+}
+
+.row-3 {
+    padding-left: 15rem;
+    padding-top: 1.5rem;
+    display: flex;
+    max-width: 82rem;
+}
+
+.col-sm-4 {
+    padding: 3rem;
+
+}
+
+.col-sm-4 img {
+    padding-bottom: 1.5rem;
+}
+
+.col-sm-4 h3 {
+    padding-bottom: 1rem;
+    font-weight: 700;
+}
+
+.col-sm-4 p {
+    font-size: 1.25rem;
+}
+
+.col-sm-4 .learn-more{
+    color: #7373d7;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.row-4 h2 {
+    padding-left: 15rem;
+    padding-top: 10rem;
+}
+
+.row-4 img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.row-5 {
+    background-color: #1f2128;
+    color: white;
+    padding-top: 10rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.row-5 h2 {
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 700;
+    width: 100%;
+    margin-bottom: 3rem;
+}
+
+.row-5 .col-sm-6 {
+    flex-basis: 50%;
+    padding: 0 3.5rem;
+}
+
+.row-5 .col-sm-6 h3{
+    padding-bottom: 1rem;
+    font-weight: 700;
+}
+
+.row-5 .col-sm-6 p {
+    color: #5a6987;
+}
+
+.row-5 .col-sm-6 img {
+    max-width: 100%;
+}
+
+.row-6 {
+    padding-left: 14rem;;
+    display: flex;
+}
+
+.row-6 .col-sm-4 {
+    flex-basis: auto;
+}
+
+.row-6 h2 {
+    padding-bottom: 3rem;
+}
+
+.row-6 p {
+    font-size: 1.2rem;
+}
+
+.row-6 .col-sm-4 {
+    max-width: 23rem;
+}
+
+.row-7 {
+    padding-left: 15rem;
+    padding-top: 5rem;
+}
+
+.row-7 h2 {
+    padding-bottom: 3rem;
+}
